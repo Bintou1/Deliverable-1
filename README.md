@@ -1,6 +1,8 @@
 # Deliverables
 
-This is an examples of a slide deck I creared as pasrt of project for Data Analysis course in Spring 2023. The assignment asked us to collect data that interests us, clean it using our skills and analyze it using graphs. 
+This is an examples of a slide deck I creared as part of project for Data Analysis course in Spring 2023 using `Xaringan` in `R Markdown`. 
+
+The assignment asked us to collect data that interests us, clean it using our skills and analyze it using graphs. 
 
 My project looks at the victims of police brutality in the Unites States in 2015. I also look at thee ethnicity of the victims, states in which they were killed, how they were killed and whether they were armed or not
 
