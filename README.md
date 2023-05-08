@@ -5,8 +5,8 @@ This is an examples of a slide deck I creared as pasrt of project for Data Analy
 My project looks at the relationship between XYZ.... I gathered data from XYZ... I did XYZ to clean it
 
 Files for the project: 
-- `my data.csv` replication data
-- `slidescript.Rmd` code for creating the slides
+- `police_killings.csv` replication data
+- `Presentation 2.Rmd` and `Prensentation 2.R` code for creating the slides
 - `index.html` with the output
 
 See the slides at URL. 
