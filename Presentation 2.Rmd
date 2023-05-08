@@ -1,0 +1,40 @@
+---
+title: "Victims of police violence in the US in 2015"
+author: "Bintou Doumbia"
+output:
+   xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: inverse, left, middle
+
+# Data Info
+
+The data was extracted from FiveThirtyEight and Guardian. 
+
+This data set contains information on 50 states with 34 variables and 467 observations.
+It covers the year 2015. In this analysis, I am only examining 5 variables in order to establish if there is a correlation or not.
+
+My research interests center around victims of police brutality and analyzing whether or not it is related to certain variables.
+
+The variables I chose to examine are:
+- State
+- Cause of death
+- Victim Armed or not 
+- Race/ethnicity
+
+---
+Number of death per state and by race
+```{r graph 1, echo=FALSE, out.width = '80%'}
+knitr::include_graphics("/Users/bintou/Downloads/Data Analysis/Rplot05.jpeg")
+```
+---
+Cause of death and victim armed or not
+```{r graph 2, echo=FALSE, out.width = '80%'}
+knitr::include_graphics("/Users/bintou/Downloads/Data Analysis/Rplot07.jpeg")
+```
+
+
